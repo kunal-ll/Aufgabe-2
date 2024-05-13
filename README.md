@@ -50,6 +50,7 @@ Bitte clont das Projekt und bearbeitet die folgende Aufgabe.
    ```
 
 2. **Branch 'body-section' erstellen:**
+   - Wechsele in die main Branch zurück
    - Erstellen Sie einen neuen Branch namens 'body-section'.
    - Fügen Sie den folgenden Code in den `<body>`-Bereich der HTML-Datei ein und passen Sie ihn an:
    ```html
@@ -66,7 +67,8 @@ Bitte clont das Projekt und bearbeitet die folgende Aufgabe.
    </div>
    ```
 
-3. **Branch 'footer-section' erstellen:**
+4. **Branch 'footer-section' erstellen:**
+   - Wechsele in die main Branch zurück
    - Erstellen Sie einen neuen Branch namens 'footer-section'.
    - Fügen Sie den folgenden Code in den `<footer>`-Bereich der HTML-Datei ein und passen Sie ihn an:
    ```html
@@ -76,7 +78,7 @@ Bitte clont das Projekt und bearbeitet die folgende Aufgabe.
    </footer>
    ```
 
-4. **Mergen der Branches:**
+6. **Mergen der Branches:**
    - Wechseln Sie zurück zum Hauptbranch und führen Sie die Branches der Reihe nach zusammen (`git merge head-section`, `git merge body-section`, `git merge footer-section`).
 
 **Hinweise zum Mergen:**
