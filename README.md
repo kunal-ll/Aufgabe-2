@@ -2,7 +2,7 @@
 
 **Aufgabe 2 - Branching und Merging Steckbrief**
 Bitte clont das Projekt und bearbeitet die folgende Aufgabe.
-```
+
 
 **Aufgabe:**
 1. **Branch 'head-section' erstellen:**
