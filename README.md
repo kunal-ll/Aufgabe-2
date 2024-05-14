@@ -82,6 +82,6 @@ Bitte clont das Projekt, navigiert zum Ordner und bearbeitet die folgende Aufgab
 
 6. **Mergen der Branches:**
    - Wechseln Sie zurück zum Hauptbranch und führen Sie die Branches der Reihe nach zusammen (`git merge head-section`, `git merge body-section`, `git merge footer-section`).
-   - 
+     
  7. **Löschen der Branches:**
    - Lösche 'head-section', 'body-section' und  'footer-section'.
