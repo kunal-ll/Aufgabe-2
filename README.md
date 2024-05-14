@@ -50,7 +50,8 @@ Bitte clont das Projekt, navigiert zum Ordner und bearbeitet die folgende Aufgab
        }
    </style>
    ```
-
+   - Comitte die Änderungen
+     
 2. **Wechsele in die main Branch zurück und erstelle Branch 'body-section':**
    - Wechsele in die main Branch zurück
    - Erstellen einen neuen Branch namens 'body-section'.
@@ -68,7 +69,8 @@ Bitte clont das Projekt, navigiert zum Ordner und bearbeitet die folgende Aufgab
        </div>
    </div>
    ```
-
+   - Comitte die Änderungen
+     
 4. **Wechsele in die main Branch und erstelle Branch 'footer-section':**
    - Wechsele in die main Branch zurück
    - Erstelle einen neuen Branch namens 'footer-section'.
@@ -79,7 +81,8 @@ Bitte clont das Projekt, navigiert zum Ordner und bearbeitet die folgende Aufgab
        <p>&copy; 2023 Name der Person. Alle Rechte vorbehalten.</p>
    </footer>
    ```
-
+   - Comitte die Änderungen
+     
 6. **Mergen der Branches:**
    - Wechseln zurück zum Hauptbranch und führen die Branches der Reihe nach zusammen (`git merge head-section`, `git merge body-section`, `git merge footer-section`).
      
