@@ -2,8 +2,9 @@
 
 **Aufgabe 2 - Branching und Merging Steckbrief**
 Bitte clont das Projekt und bearbeitet die folgende Aufgabe.
-
-
+   ```sh
+   git clone https://github.com/kunal-ll/Aufgabe-2.git
+   ```
 **Aufgabe:**
 1. **Branch 'head-section' erstellen:**
    - Erstellen Sie einen neuen Branch namens 'head-section'.
