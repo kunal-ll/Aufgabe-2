@@ -85,9 +85,3 @@ Bitte clont das Projekt, navigiert zum Ordner und bearbeitet die folgende Aufgab
    - 
  7. **Löschen der Branches:**
    - Lösche 'head-section', 'body-section' und  'footer-section'.
-
-**Hinweise zum Mergen:**
-- Überprüfen Sie nach jedem Merge die Funktionalität der gesamten Seite.
-- Lösen Sie eventuelle Merge-Konflikte sorgfältig auf.
-
-Diese strukturierte Aufgabenstellung ermöglicht es den Workshop-Teilnehmern, ein umfassendes Verständnis von Git Branching und Merging zu entwickeln, während sie gleichzeitig praktische Erfahrungen mit der Versionierung und Zusammenführung von Code sammeln.
