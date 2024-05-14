@@ -71,18 +71,9 @@ Bitte clont das Projekt, navigiert zum Ordner und bearbeitet die folgende Aufgab
    ```
    - Comitte die Änderungen
      
-4. **Wechsele in die main Branch und erstelle Branch 'footer-section':**
-   - Wechsele in die main Branch zurück
-   - Erstelle einen neuen Branch namens 'footer-section'.
-   - Füge den folgenden Code in den `<footer>`-Bereich der HTML-Datei ein und passen ihn an:
-   ```html
-    <p>Kontakt: <a href="mailto:email@beispiel.com">email@beispiel.com</a></p>
-    <p>&copy; 2024 Name der Person. Alle Rechte vorbehalten.</p>
-   ```
-   - Comitte die Änderungen
      
-6. **Mergen der Branches:**
+3. **Mergen der Branches:**
    - Wechseln zurück zum Hauptbranch und führen die Branches der Reihe nach zusammen (`git merge head-section`, `git merge body-section`, `git merge footer-section`).
      
- 7. **Löschen der Branches:**
+4. **Löschen der Branches:**
    - Lösche 'head-section', 'body-section' und  'footer-section'.
