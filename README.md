@@ -1,7 +1,7 @@
 # Git-Workshop Aufgabe-2
 
 **Aufgabe 2 - Branching und Merging Steckbrief**
-Bitte clont das Projekt und bearbeitet die folgende Aufgabe.
+Bitte clont das Projekt, navigiert zum Ordner und bearbeitet die folgende Aufgabe.
    ```sh
    git clone https://github.com/kunal-ll/Aufgabe-2.git
    cd Aufgabe-2
