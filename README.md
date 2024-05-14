@@ -76,10 +76,8 @@ Bitte clont das Projekt, navigiert zum Ordner und bearbeitet die folgende Aufgab
    - Erstelle einen neuen Branch namens 'footer-section'.
    - Füge den folgenden Code in den `<footer>`-Bereich der HTML-Datei ein und passen ihn an:
    ```html
-   <footer>
-       <p>Kontakt: <a href="mailto:email@beispiel.com">email@beispiel.com</a></p>
-       <p>&copy; 2023 Name der Person. Alle Rechte vorbehalten.</p>
-   </footer>
+    <p>Kontakt: <a href="mailto:email@beispiel.com">email@beispiel.com</a></p>
+    <p>&copy; 2023 Name der Person. Alle Rechte vorbehalten.</p>
    ```
    - Comitte die Änderungen
      
