@@ -51,7 +51,7 @@ Bitte clont das Projekt, navigiert zum Ordner und bearbeitet die folgende Aufgab
    </style>
    ```
 
-2. **Branch 'body-section' erstellen:**
+2. **Wechsele in die main Branch zurück und erstelle Branch 'body-section':**
    - Wechsele in die main Branch zurück
    - Erstellen einen neuen Branch namens 'body-section'.
    - Füge den folgenden Code in den `<body>`-Bereich der HTML-Datei ein und passe ihn an:
@@ -69,7 +69,7 @@ Bitte clont das Projekt, navigiert zum Ordner und bearbeitet die folgende Aufgab
    </div>
    ```
 
-4. **Branch 'footer-section' erstellen:**
+4. **Wechsele in die main Branch und erstelle Branch 'footer-section':**
    - Wechsele in die main Branch zurück
    - Erstelle einen neuen Branch namens 'footer-section'.
    - Füge den folgenden Code in den `<footer>`-Bereich der HTML-Datei ein und passen ihn an:
