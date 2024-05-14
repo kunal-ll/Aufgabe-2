@@ -8,8 +8,8 @@ Bitte clont das Projekt, navigiert zum Ordner und bearbeitet die folgende Aufgab
    ```
 **Aufgabe:**
 1. **Branch 'head-section' erstellen:**
-   - Erstellen Sie einen neuen Branch namens 'head-section'.
-   - Fügen Sie den folgenden Code in den `<head>`-Bereich der HTML-Datei ein und passen Sie ihn an:
+   - Erstelle einen neuen Branch namens 'head-section'.
+   - Fügen den folgenden Code in den `<head>`-Bereich der HTML-Datei ein und passe ihn an:
    ```html
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -53,8 +53,8 @@ Bitte clont das Projekt, navigiert zum Ordner und bearbeitet die folgende Aufgab
 
 2. **Branch 'body-section' erstellen:**
    - Wechsele in die main Branch zurück
-   - Erstellen Sie einen neuen Branch namens 'body-section'.
-   - Fügen Sie den folgenden Code in den `<body>`-Bereich der HTML-Datei ein und passen Sie ihn an:
+   - Erstellen einen neuen Branch namens 'body-section'.
+   - Füge den folgenden Code in den `<body>`-Bereich der HTML-Datei ein und passe ihn an:
    ```html
    <div class="profile">
        <img src="pfad/zum/bild.jpg" alt="Bild von Person">
@@ -71,8 +71,8 @@ Bitte clont das Projekt, navigiert zum Ordner und bearbeitet die folgende Aufgab
 
 4. **Branch 'footer-section' erstellen:**
    - Wechsele in die main Branch zurück
-   - Erstellen Sie einen neuen Branch namens 'footer-section'.
-   - Fügen Sie den folgenden Code in den `<footer>`-Bereich der HTML-Datei ein und passen Sie ihn an:
+   - Erstelle einen neuen Branch namens 'footer-section'.
+   - Füge den folgenden Code in den `<footer>`-Bereich der HTML-Datei ein und passen ihn an:
    ```html
    <footer>
        <p>Kontakt: <a href="mailto:email@beispiel.com">email@beispiel.com</a></p>
@@ -81,7 +81,7 @@ Bitte clont das Projekt, navigiert zum Ordner und bearbeitet die folgende Aufgab
    ```
 
 6. **Mergen der Branches:**
-   - Wechseln Sie zurück zum Hauptbranch und führen Sie die Branches der Reihe nach zusammen (`git merge head-section`, `git merge body-section`, `git merge footer-section`).
+   - Wechseln zurück zum Hauptbranch und führen die Branches der Reihe nach zusammen (`git merge head-section`, `git merge body-section`, `git merge footer-section`).
      
  7. **Löschen der Branches:**
    - Lösche 'head-section', 'body-section' und  'footer-section'.
