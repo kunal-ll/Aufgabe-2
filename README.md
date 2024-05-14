@@ -77,7 +77,7 @@ Bitte clont das Projekt, navigiert zum Ordner und bearbeitet die folgende Aufgab
    - Füge den folgenden Code in den `<footer>`-Bereich der HTML-Datei ein und passen ihn an:
    ```html
     <p>Kontakt: <a href="mailto:email@beispiel.com">email@beispiel.com</a></p>
-    <p>&copy; 2023 Name der Person. Alle Rechte vorbehalten.</p>
+    <p>&copy; 2024 Name der Person. Alle Rechte vorbehalten.</p>
    ```
    - Comitte die Änderungen
      
