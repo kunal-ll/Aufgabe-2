@@ -4,6 +4,7 @@
 Bitte clont das Projekt und bearbeitet die folgende Aufgabe.
    ```sh
    git clone https://github.com/kunal-ll/Aufgabe-2.git
+   cd Aufgabe-2
    ```
 **Aufgabe:**
 1. **Branch 'head-section' erstellen:**
